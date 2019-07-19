@@ -1,1 +1,12 @@
+Name of Quantlet: 'Next_Unicorn'
+
+Published in: TBC
+
+Description: This fodler contains 5 quantlets for the master thesis "Searching for a unicorn: A ML approach towards predicting startup success"
+
+Keywords: startup success, ensemble models, success prediction
+
+Author: Cemre Ünal
+
+Submitted:  22. Jul 2019, Cemre Ünal
 
